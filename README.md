@@ -1,3 +1,9 @@
+Оригинальный репозиторий Presto   
+https://github.com/prestodb/presto  
+
+Архитектура и Реверс инжинириг Presto   
+https://drive.google.com/drive/folders/1TXX2kje9ecaiJDDaqFd7dhs2Zj1ugS45   
+
 # Presto [![Build Status](https://travis-ci.com/prestodb/presto.svg?branch=master)](https://travis-ci.com/prestodb/presto)
 
 Presto is a distributed SQL query engine for big data.
